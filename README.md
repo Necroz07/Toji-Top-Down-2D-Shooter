@@ -12,9 +12,9 @@ Core combat loop with movement, shooting, collision detection, and sound effects
 ## Play Online
 
 Try it directly on Scratch:
-```
+
 [Play Here](https://scratch.mit.edu/projects/1189157095)
-```
+
 
 ---
 ## Gameplay
